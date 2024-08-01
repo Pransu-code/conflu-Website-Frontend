@@ -2,7 +2,7 @@
 https://conflu-website-frontend.vercel.app/
 
 ## Screenshots
-![Alt Text](https://ibb.co/0h9NwPv)
+![Alt Text](https://www.imghippo.com/i/ozRre1722517520.png)
 
 # Getting Started with Create React App
 
